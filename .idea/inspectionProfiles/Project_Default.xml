@@ -1,0 +1,35 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="2">
+            <item index="0" class="java.lang.String" itemvalue="sqaure_light.png" />
+            <item index="1" class="java.lang.String" itemvalue="?next" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="11">
+            <item index="0" class="java.lang.String" itemvalue="oscar" />
+            <item index="1" class="java.lang.String" itemvalue="typing_extensions" />
+            <item index="2" class="java.lang.String" itemvalue="django-widget-tweaks" />
+            <item index="3" class="java.lang.String" itemvalue="pydantic_core" />
+            <item index="4" class="java.lang.String" itemvalue="django-bootstrap-datepicker-plus" />
+            <item index="5" class="java.lang.String" itemvalue="xhtml2pdf" />
+            <item index="6" class="java.lang.String" itemvalue="django-allauth" />
+            <item index="7" class="java.lang.String" itemvalue="pyasn1_modules" />
+            <item index="8" class="java.lang.String" itemvalue="django-google-sso" />
+            <item index="9" class="java.lang.String" itemvalue="decouple" />
+            <item index="10" class="java.lang.String" itemvalue="cloudinary" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
