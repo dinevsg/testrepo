@@ -35,7 +35,7 @@ INSTALLED_APPS = [
     # 3rd party apps
     "tailwind",
     "django_browser_reload",
-    "theme",
+    # "theme",
 
 
 ]
